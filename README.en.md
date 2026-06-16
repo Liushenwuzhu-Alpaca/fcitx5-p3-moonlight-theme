@@ -93,8 +93,6 @@ p3-skin/
 │       └── highlight.svg       # Candidate highlight
 ├── docs/
 │   └── preview.png             # Screenshot preview
-├── images/
-│   └── result.jpg              # Style reference image
 ├── README.md                   # Chinese
 └── README.en.md                # English
 ```

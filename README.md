@@ -92,8 +92,6 @@ p3-skin/
 │       └── highlight.svg       # 选中候选高亮
 ├── docs/
 │   └── preview.png             # 截图预览
-├── images/
-│   └── result.jpg              # 风格参考图
 ├── README.md                   # 中文
 └── README.en.md                # 英文
 ```
