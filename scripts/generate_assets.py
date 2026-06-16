@@ -30,9 +30,12 @@ PALETTE = Palette()
 
 
 def svg_root(width: int, height: int, content: str) -> str:
+    # preserveAspectRatio="none" lets fcitx5 stretch the SVG freely to fill
+    # the panel / highlight region regardless of the source aspect ratio.
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'viewBox="0 0 {width} {height}" width="{width}" height="{height}">\n'
+        f'viewBox="0 0 {width} {height}" width="{width}" height="{height}" '
+        f'preserveAspectRatio="none">\n'
         f"{content}\n"
         f"</svg>"
     )

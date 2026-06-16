@@ -12,7 +12,7 @@
 受《Persona 3》UI 风格启发的 fcitx5 输入法皮肤。
 
 - 深蓝色矩形输入面板
-- 选中候选为青色矩形 + 白色文字
+- 选中候选为青色矩形 + 黑色文字
 - 仅使用 `panel.svg` 与 `highlight.svg` 两个矢量资源
 - 所有 SVG 素材由 `scripts/generate_assets.py` 参数化生成
 - 可安全开源分发（不包含任何官方游戏素材）
