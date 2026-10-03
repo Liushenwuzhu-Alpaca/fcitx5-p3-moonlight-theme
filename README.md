@@ -11,9 +11,10 @@
 
 受《Persona 3》UI 风格启发的 fcitx5 输入法皮肤。
 
-- 深蓝色矩形输入面板
-- 选中候选为青色矩形 + 黑色文字
-- 仅使用 `panel.svg` 与 `highlight.svg` 两个矢量资源
+- "塔尔塔罗斯 HUD" 设计: 深蓝屏幕面板 + 四角青色括线 + 左右侧卡
+- 顶边刻度尺 Overlay 贴图, 呼应午夜与时间主题
+- 选中候选为青色描边框 + 半透明填充 + 左端实心青色标签
+- 序号缩小为 85% 并用青色, 与选中态的实心标签呼应
 - 所有 SVG 素材由 `scripts/generate_assets.py` 参数化生成
 - 可安全开源分发（不包含任何官方游戏素材）
 
@@ -88,8 +89,11 @@ p3-skin/
 ├── dist/
 │   └── p3-skin/                # 可直接安装的 fcitx5 主题
 │       ├── theme.conf
-│       ├── panel.svg           # 输入面板背景
-│       └── highlight.svg       # 选中候选高亮
+│       ├── panel.svg           # 输入面板背景 (HUD 屏幕 + 括线)
+│       ├── highlight.svg       # 选中候选高亮 (青色描边框)
+│       ├── ticks.svg           # 刻度尺 Overlay 贴图
+│       ├── prev.svg            # 上一页箭头
+│       └── next.svg            # 下一页箭头
 ├── docs/
 │   └── preview.png             # 截图预览
 ├── README.md                   # 中文

@@ -1,4 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" width="260" height="56" preserveAspectRatio="none">
-  <rect x="0" y="0" width="260" height="56" fill="#172a47"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 84" width="480" height="84" preserveAspectRatio="none">
+  <rect x="22" y="3" width="436" height="78" fill="#0A1B33"/>
+  <rect x="26" y="7" width="428" height="70" fill="#071427"/>
+  <g fill="none" stroke="#5FD6FF" stroke-width="3" stroke-linecap="square">
+    <path d="M 22 28 L 22 3 L 58 3"/>
+    <path d="M 422 3 L 458 3 L 458 28"/>
+    <path d="M 458 56 L 458 81 L 422 81"/>
+    <path d="M 58 81 L 22 81 L 22 56"/>
+  </g>
+  <rect x="90" y="72" width="34" height="4" fill="#5FD6FF" fill-opacity="0.35"/>
+  <rect x="128" y="72" width="18" height="4" fill="#5FD6FF" fill-opacity="0.35"/>
+  <polygon points="0,30 22,30 18,48 -4,48" fill="#0A1B33"/>
+  <polygon points="458,36 480,36 484,52 462,52" fill="#0A1B33"/>
 
 </svg>

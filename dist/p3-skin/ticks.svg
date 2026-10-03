@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 14" width="260" height="14" preserveAspectRatio="none">
+  <g stroke="#5FD6FF" stroke-opacity="0.7">
+    <path d="M 4 1 L 4 13" stroke-width="1.8"/>
+    <path d="M 14 5 L 14 11" stroke-width="0.9"/>
+    <path d="M 24 5 L 24 11" stroke-width="0.9"/>
+    <path d="M 34 5 L 34 11" stroke-width="0.9"/>
+    <path d="M 44 5 L 44 11" stroke-width="0.9"/>
+    <path d="M 54 5 L 54 11" stroke-width="0.9"/>
+    <path d="M 64 1 L 64 13" stroke-width="1.8"/>
+    <path d="M 74 5 L 74 11" stroke-width="0.9"/>
+    <path d="M 84 5 L 84 11" stroke-width="0.9"/>
+    <path d="M 94 5 L 94 11" stroke-width="0.9"/>
+    <path d="M 104 5 L 104 11" stroke-width="0.9"/>
+    <path d="M 114 5 L 114 11" stroke-width="0.9"/>
+    <path d="M 124 1 L 124 13" stroke-width="1.8"/>
+    <path d="M 134 5 L 134 11" stroke-width="0.9"/>
+    <path d="M 144 5 L 144 11" stroke-width="0.9"/>
+    <path d="M 154 5 L 154 11" stroke-width="0.9"/>
+    <path d="M 164 5 L 164 11" stroke-width="0.9"/>
+    <path d="M 174 5 L 174 11" stroke-width="0.9"/>
+    <path d="M 184 1 L 184 13" stroke-width="1.8"/>
+    <path d="M 194 5 L 194 11" stroke-width="0.9"/>
+    <path d="M 204 5 L 204 11" stroke-width="0.9"/>
+    <path d="M 214 5 L 214 11" stroke-width="0.9"/>
+    <path d="M 224 5 L 224 11" stroke-width="0.9"/>
+    <path d="M 234 5 L 234 11" stroke-width="0.9"/>
+    <path d="M 244 1 L 244 13" stroke-width="1.8"/>
+    <path d="M 254 5 L 254 11" stroke-width="0.9"/>
+  </g>
+  <g fill="#5FD6FF" fill-opacity="0.85">
+    <circle cx="124" cy="7" r="2.4"/>
+    <circle cx="248" cy="7" r="2.4"/>
+  </g>
+
+</svg>
